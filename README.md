@@ -22,7 +22,7 @@ This repository contains a Python application named `dalle_image_editor` which a
 
 To install the required packages, run:
 ```bash
-pip install pillow requests easygui openai
+pip install tk pillow requests easygui openai
 ```
 
 ## Usage
